@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Proto/obj
+/Proto/ProtoClient/bin/Debug/net6.0
+/Proto/bin/Debug/net6.0
+/Proto/ProtoClient/obj
